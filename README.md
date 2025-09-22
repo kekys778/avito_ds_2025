@@ -1,5 +1,8 @@
 # avito_ds_2025
+
 Проект для отбора на стажировку авито. 
+
+## Запуск модели в тетрадки ```model_inference.ipynb```
 Задача: white-space/word segmentation
 # 📝 Space Insertion Model #
 
